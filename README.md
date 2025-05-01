@@ -1,13 +1,13 @@
 BA5004_A3_Hasaaan Group Members: [Hamid, Hasaan, Junaid, Hassaan ]
-------------------------------------------------------------------
+
 Assignment Description: Repository for Assignment 3 Part 2 collaboration in the Machine Learning course (BA5004).
------------------------------------------------------------------------------------------------------------------
+
 This repository demonstrates GitHub collaboration, version control, and basic Python programming skills. 
---------------------------------------------------------------------------------------------------------
+
 File Desription 
 Muhammad Hasaan.py: Contains a function to greet a user. 
 Hamid Niazi.py: Contains a user-defined calculator function. 
 Junaid Khalil.py: Contains a code to read CSV file. 
 Hasaan Malik.py: Contains a code forrandom password generator.
---------------------------------------------------------------
+
 AI Tool Usage AI tools (e.g., ChatGPT) were used for brainstorming function ideas, suggesting Python syntax, and proofreading the README documentation.
